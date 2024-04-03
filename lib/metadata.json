@@ -1,6 +1,6 @@
 {
   "vaultName": "Abi",
-  "lastExport": 1712150418026,
+  "lastExport": 1712150527825,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -32,6 +32,7 @@
     "Informatik/Datenstrukturen/Graphen.md",
     "Informatik/Datenstrukturen/traversierung.png",
     "Informatik/Datenstrukturen/Verkettete Listen.md",
+    "Index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -109,375 +110,381 @@
   ],
   "fileInfo": {
     "Chemie/Gleichgewichte/Chemisches Gleichgewicht.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 1021,
       "exportedPath": "Chemie/Gleichgewichte/Chemisches Gleichgewicht.html",
       "dependencies": []
     },
     "Chemie/Gleichgewichte/Massewirkungsgesetz.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 293,
       "exportedPath": "Chemie/Gleichgewichte/Massewirkungsgesetz.html",
       "dependencies": []
     },
     "Chemie/Gleichgewichte/Säuren und Basen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 4388,
       "exportedPath": "Chemie/Gleichgewichte/Säuren und Basen.html",
       "dependencies": []
     },
     "Chemie/img/Stoffe.webp": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 176414,
       "exportedPath": "Chemie/img/Stoffe.webp",
       "dependencies": []
     },
     "Chemie/Naturstoffe/Fette.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 1434,
       "exportedPath": "Chemie/Naturstoffe/Fette.html",
       "dependencies": []
     },
     "Chemie/Naturstoffe/Kolenhydrate.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 3783,
       "exportedPath": "Chemie/Naturstoffe/Kolenhydrate.html",
       "dependencies": []
     },
     "Chemie/Naturstoffe/Pasted image 20240402151805.png": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 141943,
       "exportedPath": "Chemie/Naturstoffe/Pasted image 20240402151805.png",
       "dependencies": []
     },
     "Chemie/Formeln & Konstanten.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 96,
       "exportedPath": "Chemie/Formeln & Konstanten.html",
       "dependencies": []
     },
     "Chemie/Reaktion.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 138,
       "exportedPath": "Chemie/Reaktion.html",
       "dependencies": []
     },
     "Chemie/Stoffklassen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 16,
       "exportedPath": "Chemie/Stoffklassen.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Binäres Rechnen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 529,
       "exportedPath": "Informatik/Daten und Codierung/Binäres Rechnen.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Binärsystem.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 404,
       "exportedPath": "Informatik/Daten und Codierung/Binärsystem.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Erweiterungsmöglichkeiten von Codierungen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 618,
       "exportedPath": "Informatik/Daten und Codierung/Erweiterungsmöglichkeiten von Codierungen.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Festkommadarstellung.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 325,
       "exportedPath": "Informatik/Daten und Codierung/Festkommadarstellung.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Hashfunktionen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 374,
       "exportedPath": "Informatik/Daten und Codierung/Hashfunktionen.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Huffmanverfahren.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 599,
       "exportedPath": "Informatik/Daten und Codierung/Huffmanverfahren.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/LZW.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 2712,
       "exportedPath": "Informatik/Daten und Codierung/LZW.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Merkmale von Codes.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 470,
       "exportedPath": "Informatik/Daten und Codierung/Merkmale von Codes.html",
       "dependencies": []
     },
     "Informatik/Daten und Codierung/Negative Binärzahlen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 478,
       "exportedPath": "Informatik/Daten und Codierung/Negative Binärzahlen.html",
       "dependencies": []
     },
     "Informatik/Datenbanken/Datenbanken.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 2501,
       "exportedPath": "Informatik/Datenbanken/Datenbanken.html",
       "dependencies": []
     },
     "Informatik/Datenbanken/Wissenshäppchen TD - Datenbanken Die UML-Notation an einem Beispiel erklärt. (UML-Diagram) [aqtM67eXgVA - 1252x704 - 2m01s].png": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 64910,
       "exportedPath": "Informatik/Datenbanken/Wissenshäppchen TD - Datenbanken Die UML-Notation an einem Beispiel erklärt. (UML-Diagram) [aqtM67eXgVA - 1252x704 - 2m01s].png",
       "dependencies": []
     },
     "Informatik/Datenstrukturen/Arrays.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 769,
       "exportedPath": "Informatik/Datenstrukturen/Arrays.html",
       "dependencies": []
     },
     "Informatik/Datenstrukturen/Binärbäume.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 1713,
       "exportedPath": "Informatik/Datenstrukturen/Binärbäume.html",
       "dependencies": []
     },
     "Informatik/Datenstrukturen/Graphen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 2506,
       "exportedPath": "Informatik/Datenstrukturen/Graphen.html",
       "dependencies": []
     },
     "Informatik/Datenstrukturen/traversierung.png": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 314271,
       "exportedPath": "Informatik/Datenstrukturen/traversierung.png",
       "dependencies": []
     },
     "Informatik/Datenstrukturen/Verkettete Listen.md": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 4038,
       "exportedPath": "Informatik/Datenstrukturen/Verkettete Listen.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1712150418026,
+      "modifiedTime": 1712150527825,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1712150527825,
+      "sourceSize": 0,
+      "exportedPath": "Index.html",
       "dependencies": []
     }
   }

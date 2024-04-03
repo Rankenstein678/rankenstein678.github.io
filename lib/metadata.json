@@ -1,0 +1,628 @@
+{
+  "vaultName": "Abi",
+  "lastExport": 1712149996905,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Chemie/Gleichgewichte/Chemisches Gleichgewicht.md",
+    "Chemie/Gleichgewichte/Massewirkungsgesetz.md",
+    "Chemie/Gleichgewichte/Säuren und Basen.md",
+    "Chemie/img/Stoffe.webp",
+    "Chemie/Naturstoffe/Fette.md",
+    "Chemie/Naturstoffe/Kolenhydrate.md",
+    "Chemie/Naturstoffe/Pasted image 20240402151805.png",
+    "Chemie/Formeln & Konstanten.md",
+    "Chemie/Reaktion.md",
+    "Chemie/Stoffklassen.md",
+    "Informatik/Daten und Codierung/Binäres Rechnen.md",
+    "Informatik/Daten und Codierung/Binärsystem.md",
+    "Informatik/Daten und Codierung/Erweiterungsmöglichkeiten von Codierungen.md",
+    "Informatik/Daten und Codierung/Festkommadarstellung.md",
+    "Informatik/Daten und Codierung/Hashfunktionen.md",
+    "Informatik/Daten und Codierung/Huffmanverfahren.md",
+    "Informatik/Daten und Codierung/LZW.md",
+    "Informatik/Daten und Codierung/Merkmale von Codes.md",
+    "Informatik/Daten und Codierung/Negative Binärzahlen.md",
+    "Informatik/Datenbanken/Datenbanken.md",
+    "Informatik/Datenbanken/Wissenshäppchen TD - Datenbanken Die UML-Notation an einem Beispiel erklärt. (UML-Diagram) [aqtM67eXgVA - 1252x704 - 2m01s].png",
+    "Informatik/Datenstrukturen/Arrays.md",
+    "Informatik/Datenstrukturen/Binärbäume.md",
+    "Informatik/Datenstrukturen/Graphen.md",
+    "Informatik/Datenstrukturen/traversierung.png",
+    "Informatik/Datenstrukturen/Verkettete Listen.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Chemie/Gleichgewichte/Chemisches Gleichgewicht.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1021,
+      "exportedPath": "chemie/gleichgewichte/chemisches-gleichgewicht.html",
+      "dependencies": []
+    },
+    "Chemie/Gleichgewichte/Massewirkungsgesetz.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 293,
+      "exportedPath": "chemie/gleichgewichte/massewirkungsgesetz.html",
+      "dependencies": []
+    },
+    "Chemie/Gleichgewichte/Säuren und Basen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 4388,
+      "exportedPath": "chemie/gleichgewichte/säuren-und-basen.html",
+      "dependencies": []
+    },
+    "Chemie/img/Stoffe.webp": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 176414,
+      "exportedPath": "chemie/img/stoffe.webp",
+      "dependencies": []
+    },
+    "Chemie/Naturstoffe/Fette.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1434,
+      "exportedPath": "chemie/naturstoffe/fette.html",
+      "dependencies": [
+        "chemie/naturstoffe/pasted-image-20240402151805.png"
+      ]
+    },
+    "Chemie/Naturstoffe/Kolenhydrate.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 3783,
+      "exportedPath": "chemie/naturstoffe/kolenhydrate.html",
+      "dependencies": []
+    },
+    "Chemie/Naturstoffe/Pasted image 20240402151805.png": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 141943,
+      "exportedPath": "chemie/naturstoffe/pasted-image-20240402151805.png",
+      "dependencies": []
+    },
+    "Chemie/Formeln & Konstanten.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 96,
+      "exportedPath": "chemie/formeln-&-konstanten.html",
+      "dependencies": []
+    },
+    "Chemie/Reaktion.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 138,
+      "exportedPath": "chemie/reaktion.html",
+      "dependencies": []
+    },
+    "Chemie/Stoffklassen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 16,
+      "exportedPath": "chemie/stoffklassen.html",
+      "dependencies": [
+        "chemie/img/stoffe.webp"
+      ]
+    },
+    "Informatik/Daten und Codierung/Binäres Rechnen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 529,
+      "exportedPath": "informatik/daten-und-codierung/binäres-rechnen.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/Binärsystem.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 404,
+      "exportedPath": "informatik/daten-und-codierung/binärsystem.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/Erweiterungsmöglichkeiten von Codierungen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 618,
+      "exportedPath": "informatik/daten-und-codierung/erweiterungsmöglichkeiten-von-codierungen.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/Festkommadarstellung.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 325,
+      "exportedPath": "informatik/daten-und-codierung/festkommadarstellung.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/Hashfunktionen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 374,
+      "exportedPath": "informatik/daten-und-codierung/hashfunktionen.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/Huffmanverfahren.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 599,
+      "exportedPath": "informatik/daten-und-codierung/huffmanverfahren.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/LZW.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 2712,
+      "exportedPath": "informatik/daten-und-codierung/lzw.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/Merkmale von Codes.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 470,
+      "exportedPath": "informatik/daten-und-codierung/merkmale-von-codes.html",
+      "dependencies": []
+    },
+    "Informatik/Daten und Codierung/Negative Binärzahlen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 478,
+      "exportedPath": "informatik/daten-und-codierung/negative-binärzahlen.html",
+      "dependencies": []
+    },
+    "Informatik/Datenbanken/Datenbanken.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 2501,
+      "exportedPath": "informatik/datenbanken/datenbanken.html",
+      "dependencies": [
+        "informatik/datenbanken/wissenshäppchen-td-datenbanken-die-uml-notation-an-einem-beispiel-erklärt.-(uml-diagram)-[aqtm67exgva-1252x704-2m01s].png"
+      ]
+    },
+    "Informatik/Datenbanken/Wissenshäppchen TD - Datenbanken Die UML-Notation an einem Beispiel erklärt. (UML-Diagram) [aqtM67eXgVA - 1252x704 - 2m01s].png": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 64910,
+      "exportedPath": "informatik/datenbanken/wissenshäppchen-td-datenbanken-die-uml-notation-an-einem-beispiel-erklärt.-(uml-diagram)-[aqtm67exgva-1252x704-2m01s].png",
+      "dependencies": []
+    },
+    "Informatik/Datenstrukturen/Arrays.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 769,
+      "exportedPath": "informatik/datenstrukturen/arrays.html",
+      "dependencies": []
+    },
+    "Informatik/Datenstrukturen/Binärbäume.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1713,
+      "exportedPath": "informatik/datenstrukturen/binärbäume.html",
+      "dependencies": [
+        "informatik/datenstrukturen/traversierung.png"
+      ]
+    },
+    "Informatik/Datenstrukturen/Graphen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 2506,
+      "exportedPath": "informatik/datenstrukturen/graphen.html",
+      "dependencies": []
+    },
+    "Informatik/Datenstrukturen/traversierung.png": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 314271,
+      "exportedPath": "informatik/datenstrukturen/traversierung.png",
+      "dependencies": []
+    },
+    "Informatik/Datenstrukturen/Verkettete Listen.md": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 4038,
+      "exportedPath": "informatik/datenstrukturen/verkettete-listen.html",
+      "dependencies": []
+    },
+    "chemie/naturstoffe/pasted-image-20240402151805.png": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 141943,
+      "exportedPath": "chemie/naturstoffe/pasted-image-20240402151805.png",
+      "dependencies": []
+    },
+    "chemie/img/stoffe.webp": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 176414,
+      "exportedPath": "chemie/img/stoffe.webp",
+      "dependencies": []
+    },
+    "informatik/datenbanken/wissenshäppchen-td-datenbanken-die-uml-notation-an-einem-beispiel-erklärt.-(uml-diagram)-[aqtm67exgva-1252x704-2m01s].png": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 64910,
+      "exportedPath": "informatik/datenbanken/wissenshäppchen-td-datenbanken-die-uml-notation-an-einem-beispiel-erklärt.-(uml-diagram)-[aqtm67exgva-1252x704-2m01s].png",
+      "dependencies": []
+    },
+    "informatik/datenstrukturen/traversierung.png": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 314271,
+      "exportedPath": "informatik/datenstrukturen/traversierung.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 15103,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 1727,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1712149996905,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}

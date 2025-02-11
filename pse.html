@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="description" content="">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#fafafa">
+</head>
+<body>
+
+<p id="curr_el">
+
+</p>
+
+<p id="score"></p>
+<div class='p-Table' aria-labelledby='page-title'>
+  <div tabindex='0' class='ele ele-1 d-nonmetal gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Wasserstoff'>
+      H
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-2 n-gas gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Helium'>
+      He
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-3 al-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Lithium'>
+      Li
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-4 alearth-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Beryllium'>
+      Be
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-5 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Bor'>
+      B
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-6 patomic-nonmetal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Kohlenstoff'>
+      C
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-7 d-nonmetal gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Stickstoff'>
+      N
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-8 d-nonmetal gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Sauerstoff'>
+      O
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-9 d-nonmetal gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Fluor'>
+      F
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-10 n-gas gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Neon'>
+      Ne
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-11 al-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Natrium'>
+      Na
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-12 alearth-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Magnesium'>
+      Mg
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-13 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Aluminium'>
+      Al
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-14 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Silizium'>
+      Si
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-15 patomic-nonmetal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Phosphor'>
+      P
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-16 patomic-nonmetal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Schwefel'>
+      S
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-17 d-nonmetal gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Chlor'>
+      Cl
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-18 n-gas gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Argon'>
+      Ar
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-19 al-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Kalium'>
+      K
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-20 alearth-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Calcium'>
+      Ca
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-21 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Scandium'>
+      Sc
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-22 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Titan'>
+      Ti
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-23 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Vanadium'>
+      V
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-24 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Chrom'>
+      Cr
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-25 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Mangan'>
+      Mn
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-26 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Eisen'>
+      Fe
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-27 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Kobalt'>
+      Co
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-28 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Nickel'>
+      Ni
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-29 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Kupfer'>
+      Cu
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-30 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Zink'>
+      Zn
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-31 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Gallium'>
+      Ga
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-32 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Germanium'>
+      Ge
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-33 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Arsen'>
+      As
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-34 patomic-nonmetal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Selen'>
+      Se
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-35 d-nonmetal liquid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Brom'>
+      Br
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-36 n-gas gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Krypton'>
+      Kr
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-37 al-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Rubidium'>
+      Rb
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-38 alearth-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Strontium'>
+      Sr
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-39 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Yttrium'>
+      Y
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-40 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Zirkonium'>
+      Zr
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-41 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Niob'>
+      Nb
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-42 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Molybdän'>
+      Mo
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-43 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Technetium'>
+      Tc
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-44 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Ruthenium'>
+      Ru
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-45 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Rhodium'>
+      Rh
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-46 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Palladium'>
+      Pd
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-47 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Silber'>
+      Ag
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-48 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Cadmium'>
+      Cd
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-49 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Indium'>
+      In
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-50 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Zinn'>
+      Sn
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-51 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Antimon'>
+      Sb
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-52 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Tellur'>
+      Te
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-53 d-nonmetal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Iod'>
+      I
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-54 n-gas gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Xenon'>
+      Xe
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-55 al-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Caesium'>
+      Cs
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-56 alearth-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Barium'>
+      Ba
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-57 lan alearth-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Lanthan'>
+      La
+    </div>
+  </div>
+
+  <div tabindex='0' class='ele ele-58 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Hafnium'>
+      Hf
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-59 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Tantal'>
+      Ta
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-60 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Wolfram'>
+      W
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-61 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Rhenium'>
+      Re
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-62 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Osmium'>
+      Os
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-63 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Iridium'>
+      Ir
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-64 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Platin'>
+      Pt
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-65 trans' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Gold'>
+      Au
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-66 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Quecksilber'>
+      Hg
+    </div>
+  </div>
+
+  <div tabindex='0' class='ele ele-67 lan pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Thulium'>
+      Tm
+    </div>
+  </div>
+
+  <div tabindex='0' class='ele ele-68 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Blei'>
+      Pb
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-69 metalloid' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Bismuth'>
+      Bi
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-70 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Polonium'>
+      Po
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-71 pTransition-metal' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Astat'>
+      At
+    </div>
+  </div>
+  <div tabindex='0' class='ele ele-72 n-gas gas' onClick="handleClick(this.className)">
+    <div class='ele-name' title='Radon'>
+      Rn
+    </div>
+  </div>
+
+</div>
+</body>
+<script src="js/app.js"></script>
+</html>
+

@@ -119,6 +119,10 @@ textarea {
   /* 1 */
 }
 
+.ele-name {
+     pointer-events: none;
+}
+
 /*
  * Extends the .visually-hidden class to allow the element
  * to be focusable when navigated to via the keyboard:
